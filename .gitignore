@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Sorties d'entraînement (seuls les modèles finaux sont versionnés)
+logs/
+models/*_steps*
